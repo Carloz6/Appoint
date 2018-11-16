@@ -1,0 +1,22 @@
+{
+  "name": "appoint",
+  "version": "1.0.0",
+  "description": "An app to set appointments. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Appoint",
+    "appointment",
+    "cita"
+  ],
+  "author": "Carlos Zepeda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongojs": "^2.6.0"
+  }
+}
